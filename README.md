@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1zcgEc4XwGMWpL-w8FAFUa7M6uUWx5igs
+
 
 ## Run Locally
 
@@ -129,7 +129,7 @@ DATABASES = {
 # (Pastikan collation diatur ke utf8mb4_general_ci jika ada pilihan).
 # Django tidak bisa membuat database untuk Anda, hanya tabel di dalamnya.
 PENTING: FILE .ENV
-Sebelum menjalankan server, buat file bernama .env di root folder proyek dan isi dengan GEMINI_API_KEY="AIza...". Ini penting agar fitur AI berfungsi.
+Sebelum menjalankan server, buat file bernamaÂ .envÂ di root folder proyek dan isi denganÂ GEMINI_API_KEY="AIza...". Ini penting agar fitur AI berfungsi.
 AUDIT_APP/MODELS.PY
 COPY CODE
 # audit_app/models.py
