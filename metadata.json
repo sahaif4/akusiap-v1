@@ -1,0 +1,7 @@
+{
+  "name": "SIAPPEPI - Sistem Informasi Audit Penjamin Mutu Internal PEPI",
+  "description": "Platform Manajemen Audit Mutu Internal (AMI) yang selaras dengan Permendiktisaintek No. 39 Tahun 2025 dan siklus PPEPP.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
